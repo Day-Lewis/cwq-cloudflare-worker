@@ -1,0 +1,7 @@
+# wrangler.toml
+name = "lewis-cloudflare-worker"
+main = "src/index.ts"
+compatibility_date = "2025-05-11"
+
+[vars]
+DEEPSEEK_API_KEY = "sk-23c628ce0b384e97a7f90d1097332e60"
